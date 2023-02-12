@@ -1,0 +1,24 @@
+/*.App {
+    font-family: sans-serif;
+    text-align: center;
+  }
+  .form {
+    margin: 10px;
+  }*/
+  li {
+    display: flex;
+    align-items: center;
+    justify-content: center,
+  }
+  .item-completed {
+    font-style: italic;
+    text-decoration: line-through;
+    color: gray;
+  }
+  .toggle,
+  .delete,
+  .number,
+  .options {
+    margin: 10px;
+  }
+  
